@@ -19,6 +19,12 @@ The objective of this project is to build a responsive Next.js application that 
 - Animated Cards and some features.
 - Error messages for failed API requests.
 
+## Demo Video
+
+Watch the demo of the Users & Posts Dashboard:
+
+[![Users & Posts Dashboard Demo](./video/orderflyassignment.mp4)]
+
 ## Screenshot
 
 Here is a screenshot of the dashboard:
