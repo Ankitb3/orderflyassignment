@@ -19,6 +19,16 @@ The objective of this project is to build a responsive Next.js application that 
 - Animated Cards and some features.
 - Error messages for failed API requests.
 
+## Screenshot
+
+Here is a screenshot of the dashboard:
+
+![Dashboard Screenshot](![alt text](image.png))
+
+Here is a screenshot of the post page:
+
+![Dashboard Screenshot](![alt text](image-1.png))
+
 ## Setup Instructions
 
 To set up and run the project locally:
